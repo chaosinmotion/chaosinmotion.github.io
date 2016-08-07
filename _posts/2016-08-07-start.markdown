@@ -2,7 +2,7 @@
 layout:     post
 title:      "开始"
 subtitle:   "测试"
-date:       2016-04-01
+date:       2016-08-07 12:00
 author:     "107"
 header-img: "img/post-java-eclipse.jpg"
 tags:
