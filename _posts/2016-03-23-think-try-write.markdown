@@ -2,8 +2,8 @@
 layout:     post
 title:      "当我写博客时我写些什么"
 subtitle:   "Think, try and write"
-date:       2016-03-23 12:00:00
-author:     "Bebop.C"
+date:       2016-08-07 12:00:00
+author:     "107"
 header-img: "img/post-think-try-write.jpg"
 tags:
     - 聊聊
@@ -11,7 +11,7 @@ tags:
 
 ## 欢迎光临。
 
-我是一枚新晋程序猿小白。
+我是一个项目经理。
 
 我的爱好是打怪升级，同时路上看看风景。
 
@@ -27,10 +27,10 @@ tags:
 
 我有许多有意思的想法想分享给大家，同时也会把平时踩过的坑填好让大家走。
 
-内容大致会围绕计算机领域和音乐领域。
+内容大致会围绕个人成长和项目管理领域。
 
-最后送上一行命令吧 ——
+最后送上一句话吧 ——
 
 ```
-$ echo "Valar Dohaeris."
+天道酬勤
 ```
