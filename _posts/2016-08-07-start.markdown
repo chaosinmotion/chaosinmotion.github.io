@@ -2,7 +2,7 @@
 layout:     post
 title:      "个人管理"
 subtitle:   "道术器"
-date:       2016-08-07 21:00
+date:       2016-08-07 21:30
 author:     "107"
 header-img: "img/post-java-eclipse.jpg"
 tags:
