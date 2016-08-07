@@ -2,7 +2,7 @@
 layout:     post
 title:      "当我写博客时我写些什么"
 subtitle:   "Think, try and write"
-date:       2016-08-07 
+date:       2016-08-07 11:00
 author:     "107"
 header-img: "img/post-think-try-write.jpg"
 tags:
