@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "我是搬运工"
+title:      "搬运工"
 subtitle:   "Clone"
 date:       2016-04-01
-author:     "Bebop.C"
+author:     "107"
 header-img: "img/post-java-eclipse.jpg"
 tags:
     - Clone
