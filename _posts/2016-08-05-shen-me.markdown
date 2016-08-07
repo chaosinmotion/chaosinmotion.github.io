@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "测试"
+subtitle:   "Clone"
+date:       2016-08-05
+author:     "107"
+header-img: "img/post-java-eclipse.jpg"
+tags:
+    - test
+---
+
+
+**版权声明：搬运Bebop.C 。**
+
+---
+
