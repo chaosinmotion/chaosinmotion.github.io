@@ -18,4 +18,4 @@ banner_image: home-bg.jpg
     {% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endfor %}
-</div>
+<div>
