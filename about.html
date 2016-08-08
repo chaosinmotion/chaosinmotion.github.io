@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "About"
-description: "Bebop.C"
-header-img: "img/about-bg.jpg"
+description: "107"
+header-img: "img/home-bg.jpg"
 ---
 
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
+    <option value="0"> 中文 Chinese </option>
 </select>
 
 <!-- Chinese Version -->
@@ -16,12 +16,12 @@ header-img: "img/about-bg.jpg"
 
     <!--copied from markdown -->
     <blockquote>
-        唯有恐惧，方能勇敢。
+        不忘初心，方得始终。
     </blockquote>
-    上帝给了你这些天赋，如果你不用，他就会把它收回。
+    关注个人成长和项目管理。
 
     <p style="text-align:right;">
-        —— <a href="http://www.amazon.com/Clapton-The-Autobiography-Eric/dp/076792536X">埃里克·克莱普顿 </a>
+        <a href="http://tomens.top">———— 为了遇见更好的自己 </a>
     </p>
 
 </div>
@@ -90,7 +90,7 @@ header-img: "img/about-bg.jpg"
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"playingfingers"};
+var duoshuoQuery = {short_name:"tomens"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -113,18 +113,20 @@ var duoshuoQuery = {short_name:"playingfingers"};
 </div>
 <!-- disqus 评论框 end -->
 
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
+<!-- 多说评论框 start -->
 
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"tomens"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+
 {% endif %}
